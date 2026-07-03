@@ -1,2 +1,1 @@
-This is Dev File 1.
-today i am learning git.
+i am updating this file.
