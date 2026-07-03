@@ -1,1 +1,2 @@
-this is the my File
+this is my first creation File in Git and also first updating file .
+i am learning Git
